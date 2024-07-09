@@ -1,9 +1,8 @@
 aiohttp
 dnspython
 motor
-Pyrogram
+Pyrofork
 tenacity
-pyromod
 pornhub-api==0.2.0
 TgCrypto
 pyproject-toml
